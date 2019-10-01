@@ -54,9 +54,17 @@ labels:
     color: 7057ff
     description: Denotes an issue ready for a new contributor, according to the "help wanted" guidelines. 
 
+  - name: hacktoberfest
+    color: F59B00
+    description: Complete the Hacktoberfest challenge and earn a limited edition T-shirt. 
+
   - name: help wanted
     color: 008672
     description: Denotes an issue that needs help from a contributor. Must meet "help wanted" guidelines.
+
+  - name: invalid
+    color: F59B00
+    description: Ineligible for the Hacktoberfest challenge
 
   - name: kind/api-change-breaking
     color: E74C3C
