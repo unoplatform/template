@@ -30,18 +30,22 @@ Nuget Package:
 Package Version(s):
 
 Affected platform(s):
+
 - [ ] iOS
 - [ ] Android
 - [ ] WebAssembly
+- [ ] WebAssembly renders for Xamarin.Forms
 - [ ] Windows
 - [ ] Build tasks
 
-Visual Studio
+Visual Studio:
+
 - [ ] 2017 (version: )
 - [ ] 2019 (version: )
 - [ ] for Mac (version: )
 
-Relevant plugins
+Relevant plugins:
+
 - [ ] Resharper (version: )
 
 ## Anything else we need to know?
