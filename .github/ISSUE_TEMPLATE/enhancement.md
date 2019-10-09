@@ -15,7 +15,9 @@ labels: kind/enhancement, triage/untriaged
 - [ ] iOS
 - [ ] Android
 - [ ] WebAssembly
+- [ ] WebAssembly renders for Xamarin.Forms
 - [ ] Windows
+- [ ] Build tasks
 
 ## Anything else we need to know?
 
