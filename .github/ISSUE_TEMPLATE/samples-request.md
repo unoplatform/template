@@ -15,6 +15,7 @@ labels: kind/contributor-experience, kind/documentation, triage/untriaged
 - [ ] iOS
 - [ ] Android
 - [ ] WebAssembly
+- [ ] WebAssembly Renderers for Xamarin.Forms
 - [ ] Windows
 
 ## Anything else we need to know?
