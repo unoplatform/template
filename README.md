@@ -1,2 +1,2 @@
 # template
-template for brand new github repositories
+This is a template for brand new github repositories
