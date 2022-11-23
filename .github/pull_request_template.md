@@ -27,7 +27,6 @@ What kind of change does this PR introduce?
 
 <!-- Please describe the new behavior after your modifications. -->
 
-
 ## PR Checklist
 
 Please check if your PR fulfills the following requirements:
@@ -42,7 +41,6 @@ Please check if your PR fulfills the following requirements:
 
 <!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below.
      Please note that breaking changes are likely to be rejected -->
-
 
 ## Other information
 
