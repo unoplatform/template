@@ -1,7 +1,7 @@
 ---
 name: Samples Request
 about: Request an enhancement to the Uno samples
-labels: kind/contributor-experience, kind/documentation, triage/untriaged
+labels: kind/contributor-experience, kind/documentation, triage/untriaged, difficulty/tbd
 ---
 
 <!-- Please only use this template for submitting enhancement requests -->
@@ -12,11 +12,17 @@ labels: kind/contributor-experience, kind/documentation, triage/untriaged
 
 ## For which Platform:
 
-- [ ] iOS
-- [ ] Android
 - [ ] WebAssembly
-- [ ] WebAssembly Renderers for Xamarin.Forms
+- [ ] Android
+- [ ] iOS
+- [ ] macOS (AppKit)
+- [ ] Mac Catalyst
+- [ ] Skia
+  - [ ] WPF
+  - [ ] GTK (Linux)
+  - [ ] Linux Framebuffer
 - [ ] Windows
+
 
 ## Anything else we need to know?
 
